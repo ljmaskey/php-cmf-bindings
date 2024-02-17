@@ -1,0 +1,12 @@
+### Developer tools: caches and local override files
+/.phpunit.cache
+/phpunit.xml
+/.php-cs-fixer.cache
+/.php-cs-fixer.php
+/phpstan.neon
+
+### Files for (and from) actual development
+/docker
+/Dockerfile
+/.idea
+/vendor
